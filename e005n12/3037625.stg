@@ -1,0 +1,5 @@
+OBJECT_BASE 3037625.btg
+OBJECT DNSO.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml 5.192710 12.913437 306.2 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml 5.221079 12.918355 310.4 0.00
+OBJECT_SHARED Models/Airport/beacon.xml 5.206443 12.917735 309.1 0.00
